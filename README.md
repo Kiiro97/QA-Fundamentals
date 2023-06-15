@@ -1,2 +1,2 @@
 # QA-Fundamentals
-SoftUni QA Fundamentals course exercises 
+QA Fundamentals course @ SoftUni
